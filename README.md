@@ -4,6 +4,7 @@
                         🔵GLUA, 🟢PHYTON, 🟣C#
 - ⚙️ I also study:
                         Blender, Maya, Marvelous Designer, Substance Painter, Compas-3D, AutoCAD. 
+
 🔵GLUA
 [================                          ]40%
 🟢PHYTON
