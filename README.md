@@ -1,10 +1,7 @@
 <h1>FYURI4 GITHUB</h1>
-Languages studied:
 
-![LUA](https://img.shields.io/badge/LUA-40%25-brightgreen)
+![FYURi4](https://github-readme-stats.vercel.app/api?username=FYURi4&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FYURi4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![C#](https://img.shields.io/badge/C%23-10%25-red)
-![HTML](https://img.shields.io/badge/HTML-50%25-orange)
-![Python](https://img.shields.io/badge/Python-40%25-yellowgreen)
 
 
