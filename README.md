@@ -19,11 +19,6 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-38B2A6?style=for-the-badge&logo=tailwind)]()
 [![LUA](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua)]()
 
-## 👀 Статистика профиля
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FYURi4&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FYURi4&layout=compact&theme=radical)
-
 ## 📊 Просмотры профиля
 
 ![](https://komarev.com/ghpvc/?username=FYURi4&color=green)
